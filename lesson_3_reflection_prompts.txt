@@ -33,4 +33,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When we are collaborating than it is easier to get other's opinion on whether
+	the change is correct or not. While working alone we can make experimental change in 
+	different branch than later on merge. 
